@@ -3,6 +3,10 @@
  * URL:   https://github.com/moodlehq/moodlemobile/blob/master/css/styles.css
  *****************************************************/
 
+.bar-header {
+  background-color: #6cbd45;
+}
+
 /* Primary header of the app - not the pull-out */
 .header-main {
   /* https://github.com/moodlehq/moodlemobile/blob/master/css/styles.css#L331 */
