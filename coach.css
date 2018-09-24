@@ -1,3 +1,6 @@
-.bar-header {
-  background-color: #6cbd45;
+/** Header color */
+.toolbar-background-md,
+.toolbar-background-ios,
+.toolbar-background-wp {
+  background: #6CBD45;
 }
