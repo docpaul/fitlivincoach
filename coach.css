@@ -1,0 +1,26 @@
+/* ****************************************************
+ * FILE:  styles.css
+ * URL:   https://github.com/moodlehq/moodlemobile/blob/master/css/styles.css
+ *****************************************************/
+
+/* Primary header of the app - not the pull-out */
+.header-main {
+  /* https://github.com/moodlehq/moodlemobile/blob/master/css/styles.css#L331 */
+  background: #6cbd45;
+}
+
+/* Pull-out panel (called user menu) */
+.panel.user-menu {
+  /* https://github.com/moodlehq/moodlemobile/blob/master/css/styles.css#L372 */
+  background: red;
+}
+
+/* General modal windows */
+#app-dialog > div {
+  background: purple;
+}
+
+.menu-home:before {
+  font-family: "icomoon";
+  content: "\e002";
+}
